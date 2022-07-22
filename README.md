@@ -2,7 +2,7 @@
 
 This is my undergraduate graduation project. The main content of the project is to modify an electric car into a driverless car with four-wheel steering.
 
-<img src="/home/kaho/Workspaces/ChassisControl/images/original.png" alt="original" style="zoom:75%;" />
+![img](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/original.png)
 
 ## 1. Main Contribution
 
@@ -15,29 +15,29 @@ This is my undergraduate graduation project. The main content of the project is 
 
   - before modification
 
-    <img src="/home/kaho/Workspaces/ChassisControl/images/before_mod.jpeg" alt="before_mod" style="zoom: 67%;" />
+    ![img](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/before_mod.jpeg)
 
   - after modification
 
     - 3D modeling
 
-      ![rear_steer_system](/home/kaho/Workspaces/ChassisControl/images/rear_steer_system.png)
+      ![img](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/rear_steer_system.png)
 
     - Assembling
 
-      ![after_mod2](/home/kaho/Workspaces/ChassisControl/images/after_mod2.jpeg)
+      ![img](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/after_mod2.jpeg)
 
 - Brake system
 
 ​		Using the cable-pulling scheme and adopting the step motor as the power source to modify the braking system.
 
-​								![brake system](/home/kaho/Workspaces/ChassisControl/images/brake system.png)		
+​								![img](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/brake%20system.png)	
 
 ## 3. STM32 Controller
 
 - Hardware system architecture
 
-  ![Hardware System](/home/kaho/Workspaces/ChassisControl/images/Hardware System.png)
+  ![img](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/Hardware%20System.png)
 
 - Main Module
 
@@ -50,4 +50,4 @@ This is my undergraduate graduation project. The main content of the project is 
 
 ## 4. Test
 
-![motion_control_test](/home/kaho/Workspaces/ChassisControl/images/motion_control_test.gif)
+![img](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/motion_control_test.gif)
