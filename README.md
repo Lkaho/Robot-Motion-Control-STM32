@@ -49,7 +49,7 @@ This is my undergraduate graduation project. The main content of the project is 
 
 - Controller Function Test(Simulation)
 
-  ![controller_sim](/home/kaho/Workspaces/ChassisControl/images/controller_sim.jpeg)
+  ![controller_sim](https://github.com/Lkaho/Robot-Motion-Control-STM32/blob/main/images/controller_sim.jpeg)
 
 ## 4. Test
 
